@@ -59,11 +59,15 @@ AI算法岗方向：深度学习、机器学习、计算机视觉、图像处理
 
 刷题的目的是为了学习数据结构和算法，锻炼编程能力和熟悉刷题技巧
 
+刷题建议：先刷[《剑指Offer》](https://www.nowcoder.com/ta/coding-interviews)（66题），再刷 [LeetCode](https://leetcode.com/)（目前LeetCode已经有900+题，可以根据类别来刷，但强烈建议先刷完 [LeetCode 面试高频题](https://leetcode.com/problemset/top-interview-questions/)）
+
 ### 3.1 刷题编程语言
 
 - C/C++
 - Python
 - JAVA（不推荐）
+
+> 注：如果时间充裕，而且有C++基础，那么强烈建议使用 C++和 Python 同时刷题
 
 ### 3.2 书籍推荐
 
@@ -75,17 +79,18 @@ AI算法岗方向：深度学习、机器学习、计算机视觉、图像处理
 | [《大话数据结构》](https://book.douban.com/subject/6424904/) | 7.9      | ☆☆☆      |
 | [《算法》(第四版)](https://book.douban.com/subject/19952400/) | 9.4      | ☆☆☆      |
 
-注：其实还有很多方向没有涉及，如linux、数据库，但暂时先推荐这些，后面再补充
+>  注：其实还有很多方向没有涉及，如linux、数据库，但暂时先推荐这些，后面再补充
 
 ### 3.3 在线刷题网站
 
 - [LeetCode(英文)](https://leetcode.com/)
 - [LeetCode(中文)](https://leetcode-cn.com/)
-- [牛客网](https://www.nowcoder.com/)
+- [牛客网](https://www.nowcoder.com/)：推荐剑指Offer和各大公司往年题库，牛客网的优势在于很多公司都会使用其作为在线刷题平台，所以在这上面刷题，有利于懂得输入输出等"套路"
 
 ### 3.4 刷题方法
 
-推荐按类别来刷题，如数组类、链表类
+- 《剑指Offer》全刷完
+- LeetCode选择性刷：可以类别来刷题，如数组类、链表类，或者面试高频类
 
 ### 3.5 刷题时间
 
