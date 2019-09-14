@@ -82,13 +82,17 @@ AI算法岗方向：深度学习、机器学习、计算机视觉、图像处理
 
 刷题建议：先刷[《剑指Offer》](https://www.nowcoder.com/ta/coding-interviews)（66题），再刷 [LeetCode](https://leetcode.com/)（目前LeetCode已经有900+题，可以根据类别来刷，但强烈建议先刷完 [LeetCode 面试高频题](https://leetcode.com/problemset/top-interview-questions/)）
 
+> 注：根据 2019 年校招提前批的情况来看，LeetCode 建议至少刷200-300题，所以2020年（2021届）找工作的同学一定要努力刷起来了！
+
 ### 3.1 刷题编程语言
 
 - C/C++
 - Python
 - JAVA（不推荐）
 
-> 注：如果时间充裕，而且有C++基础，那么强烈建议使用 C++和 Python 同时刷题
+> 注：如果时间充裕，而且有 C++ 基础，那么强烈建议使用 C++和 Python 同时刷题。
+>
+> 根据 2019 年校招提前批的情况来看，会 C++ 的同学具有有一定优势。
 
 ### 3.2 书籍推荐
 
