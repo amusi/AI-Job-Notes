@@ -171,9 +171,9 @@ AI算法岗方向：深度学习、机器学习、计算机视觉、图像处理
 
 **北京提供CV算法岗的公司名单**
 
-![](https://github.com/amusi/CV-Jobs/raw/master/imgs/Beijing.png)
+![](/imgs/Beijing.png)
 
-更多城市信息（上海/深圳杭州等）详见：https://github.com/amusi/CV-Jobs
+更多城市信息（上海，深圳，杭州，南京，广州和成都等）详见：https://github.com/amusi/CV-Jobs
 
 <a name="Salary"></a>
 
