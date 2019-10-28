@@ -11,10 +11,10 @@ AI算法岗方向：深度学习、机器学习、计算机视觉、图像处理
 
 - [1 校招时间表](#Scheduled)
 - [2 准备攻略](#Strategy)
-- [3 刷题指南](#Coding)
+- [3 AI 面经和刷题指南](#Coding)
 - [4 内推](#Recommend)
 - [5 简历模板](#Resume)
-- [6 AI类公司清单（以CV岗为主）](#Company)
+- [6 AI 类公司清单（以CV岗为主）](#Company)
 - [7 2019届AI算法岗薪资情况](#Salary)
 - [8 答疑（含130个问答）](#Q&A)
 
@@ -78,7 +78,32 @@ AI算法岗方向：深度学习、机器学习、计算机视觉、图像处理
 
 <a name="Coding"></a>
 
-## 3 刷题指南
+## 3 AI面经和刷题指南
+
+### 3.1 深度学习面试宝典
+
+详见：[深度学习面试宝典（含数学、机器学习、深度学习、计算机视觉、自然语言处理和SLAM等方向）](<https://github.com/amusi/Deep-Learning-Interview-Book>)
+
+**Deep Learning Interview Book** 部分内容如下：
+
+- 😃 [自我介绍](https://github.com/amusi/Deep-Learning-Interview-Book/blob/master/docs/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D.md)
+- 🔢 [数学](https://github.com/amusi/Deep-Learning-Interview-Book/blob/master/docs/%E6%95%B0%E5%AD%A6.md)
+- 🎓 [机器学习](https://github.com/amusi/Deep-Learning-Interview-Book/blob/master/docs/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.md)
+- 📕 [深度学习](https://github.com/amusi/Deep-Learning-Interview-Book/blob/master/docs/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.md)
+- 📗 [强化学习](https://github.com/amusi/Deep-Learning-Interview-Book/blob/master/docs/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.md)
+- 👀 [计算机视觉](https://github.com/amusi/Deep-Learning-Interview-Book/blob/master/docs/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89.md)
+- 📷 [传统图像处理](https://github.com/amusi/Deep-Learning-Interview-Book/blob/master/docs/%E4%BC%A0%E7%BB%9F%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86.md)
+- 🀄️ [自然语言处理](https://github.com/amusi/Deep-Learning-Interview-Book/blob/master/docs/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86.md)
+- 🏄 [SLAM](https://github.com/amusi/Deep-Learning-Interview-Book/blob/master/docs/SLAM.md)
+- 👥 [推荐算法](https://github.com/amusi/Deep-Learning-Interview-Book/blob/master/docs/%E6%8E%A8%E8%8D%90%E7%AE%97%E6%B3%95.md)
+- 📊 [数据结构与算法](https://github.com/amusi/Deep-Learning-Interview-Book/blob/master/docs/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95.md)
+- 🐍 [编程语言：C/C++/Python](https://github.com/amusi/Deep-Learning-Interview-Book/blob/master/docs/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80.md)
+- 🎆 [深度学习框架](https://github.com/amusi/Deep-Learning-Interview-Book/blob/master/docs/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A1%86%E6%9E%B6.md)
+- ✏️ [面试经验](https://github.com/amusi/Deep-Learning-Interview-Book/blob/master/docs/%E9%9D%A2%E8%AF%95%E7%BB%8F%E9%AA%8C.md)
+- 💡 [面试技巧](https://github.com/amusi/Deep-Learning-Interview-Book/blob/master/docs/%E9%9D%A2%E8%AF%95%E6%8A%80%E5%B7%A7.md)
+- 📣 [其它（计算机网络/Linux等）](https://github.com/amusi/Deep-Learning-Interview-Book/blob/master/docs/%E5%85%B6%E5%AE%83.md)
+
+### 3.2 刷题指南
 
 刷题的目的是为了学习数据结构和算法，锻炼编程能力和熟悉刷题技巧
 
@@ -86,7 +111,7 @@ AI算法岗方向：深度学习、机器学习、计算机视觉、图像处理
 
 > 注：根据 2019 年校招提前批的情况来看，LeetCode 建议至少刷200-300题，所以2020年（2021届）找工作的同学一定要努力刷起来了！
 
-### 3.1 刷题编程语言
+#### 3.2.1 刷题编程语言
 
 - C/C++
 - Python
@@ -96,7 +121,7 @@ AI算法岗方向：深度学习、机器学习、计算机视觉、图像处理
 >
 > 根据 2019 年校招提前批的情况来看，会 C++ 的同学具有有一定优势。
 
-### 3.2 书籍推荐
+#### 3.2.2 书籍推荐
 
 | 书籍                                                         | 豆瓣评分 | 推荐指数 |
 | ------------------------------------------------------------ | -------- | -------- |
@@ -108,22 +133,22 @@ AI算法岗方向：深度学习、机器学习、计算机视觉、图像处理
 
 >  注：其实还有很多方向没有涉及，如linux、数据库，但暂时先推荐这些，后面再补充
 
-### 3.3 在线刷题网站
+#### 3.2.3 在线刷题网站
 
 - [LeetCode(英文)](https://leetcode.com/)
 - [LeetCode(中文)](https://leetcode-cn.com/)
 - [牛客网](https://www.nowcoder.com/)：推荐剑指Offer和各大公司往年题库，牛客网的优势在于很多公司都会使用其作为在线刷题平台，所以在这上面刷题，有利于懂得输入输出等"套路"
 
-### 3.4 刷题方法
+#### 3.2.4 刷题方法
 
 - 《剑指Offer》全刷完
 - LeetCode选择性刷：可以类别来刷题，如数组类、链表类，或者面试高频类
 
-### 3.5 刷题时间
+#### 3.2.5 刷题时间
 
 现在起~2019-10-15
 
-### 3.6 刷题重要性
+#### 3.2.6 刷题重要性
 
 正常校招流程都要进行在线笔试，面试中也可能会手撕代码，所以刷题十分影响面试结果。
 
