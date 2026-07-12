@@ -374,13 +374,13 @@ PyTorch 学习资料：[GitHub - amusi/PyTorch-From-Zero-To-One: PyTorch从入�
 
 **8.74 最近想打几个视觉相关的比赛，但是没有实战过(基础知识倒是扫过了)，有比赛入门方法嘛？**
 
-答：入门方法可以看一下这类的Kaggel经验文章，都是一些大神的总结，也有回顾入门阶段的，我觉得写的都很好： 
+答：入门方法可以看一下这类的Kaggel经验文章，都是一些大神的总结，也有回顾入门阶段的，我觉得写的都很好：
 
-【0】[Kaggle 入门指南 - 知乎](https://zhuanlan.zhihu.com/p/25742261) 
+【0】[Kaggle 入门指南 - 知乎](https://zhuanlan.zhihu.com/p/25742261)
 
-【1】[分分钟带你杀入Kaggle Top 1% - 知乎](https://zhuanlan.zhihu.com/p/27424282) 
+【1】[分分钟带你杀入Kaggle Top 1% - 知乎](https://zhuanlan.zhihu.com/p/27424282)
 
-【2】[6次Kaggle计算机视觉类比赛赛后感 - 知乎](https://zhuanlan.zhihu.com/p/37663895) 
+【2】[6次Kaggle计算机视觉类比赛赛后感 - 知乎](https://zhuanlan.zhihu.com/p/37663895)
 
 【3】[参加kaggle竞赛是怎样一种体验？ - 知乎](https://www.zhihu.com/question/24533374)
 
