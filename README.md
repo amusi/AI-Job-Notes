@@ -165,6 +165,7 @@ AI算法岗方向涉及：AIGC、大模型、深度学习、机器学习、计�
 - [LeetCode(英文)](https://leetcode.com/)
 - [LeetCode(中文)](https://leetcode-cn.com/)
 - [牛客网](https://www.nowcoder.com/)：推荐剑指Offer和各大公司往年题库，牛客网的优势在于很多公司都会使用其作为在线刷题平台，所以在这上面刷题，有利于懂得输入输出等"套路"
+- [AI 产品经理笔试备考游戏「耍门」](https://github.com/ink7011/ai-pm-exam-games)：334 道原创模拟题，免费网页版，按考点闯关（RAG/Agent/LLM/SQL 等 25 座塔），错题间隔重复
 
 #### 3.2.4 刷题方法
 
